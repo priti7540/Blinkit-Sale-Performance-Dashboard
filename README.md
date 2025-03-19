@@ -5,13 +5,13 @@ This interactive Business Intelligence Dashboard analyzes Blinkit’s sales, pro
 - <a href="https://github.com/priti7540/Blinkit-Sale-Performance-Dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
 
 ##  Key Features
-- 💰 **Total Sales:** $1.20M | 🛒 **Items Sold:** 8,523 | 📈 **Average Sales per Item:** $141 | ⭐ **Average Rating:** 3.9
-- 📊 **Year-wise Outlet Establishment Trend (2012-2022)**
-- 🥛 **Sales by Fat Content:** Low Fat vs Regular (Regular leads with $776K+)
-- 🛍 **Top Performing Item Categories:** Fruits, Snacks, Household, Frozen Food
-- 📍 **Outlet Size & Location Analysis:** Tier 3 cities generate the highest sales ($472K+)
-- 🏪 **Outlet Type Comparison:** Supermarket and Grocery store performance breakdown
-- 🎯 **Dynamic Filters:** Filter by Outlet Location, Outlet Size, and Item Type for customized insights
+- **Total Sales:** $1.20M | **Items Sold:** 8,523 | **Average Sales per Item:** $141 | **Average Rating:** 3.9
+- **Year-wise Outlet Establishment Trend (2012-2022)**
+- **Sales by Fat Content:** Low Fat vs Regular (Regular leads with $776K+)
+- **Top Performing Item Categories:** Fruits, Snacks, Household, Frozen Food
+- **Outlet Size & Location Analysis:** Tier 3 cities generate the highest sales ($472K+)
+- **Outlet Type Comparison:** Supermarket and Grocery store performance breakdown
+- **Dynamic Filters:** Filter by Outlet Location, Outlet Size, and Item Type for customized insights
 
 ## Tools & Technologies Used
 - **Power BI**
