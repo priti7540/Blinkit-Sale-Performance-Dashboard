@@ -1,8 +1,8 @@
 # Blinkit-Sale-Performance-Dashboard
 ## Project Objective
-This interactive Business Intelligence Dashboard analyzes Blinkit’s sales, product performance, and outlet-level metrics to generate actionable insights for business decision-making. Built using Power BI, the dashboard visualizes historical trends, sales distribution, outlet performance, and product category analysis — empowering stakeholders to optimize operations and maximize revenue.
+This interactive Business Intelligence Dashboard analyzes Blinkit’s sales, product performance, and outlet-level metrics to generate actionable insights for business decision-making. Built using Power BI, the dashboard visualizes historical trends, sales distribution, outlet performance, and product category analysis-empowering stakeholders to optimize operations and maximize revenue.
 ## Dataset Used
-- <a href="https://github.com/priti7540/Blinkit-Sale-Performance-Dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx>Dataset</a>
+- <a href="https://github.com/priti7540/Blinkit-Sale-Performance-Dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
 
 ##  Key Features
 - 💰 **Total Sales:** $1.20M | 🛒 **Items Sold:** 8,523 | 📈 **Average Sales per Item:** $141 | ⭐ **Average Rating:** 3.9
@@ -21,7 +21,7 @@ This interactive Business Intelligence Dashboard analyzes Blinkit’s sales, pro
 - **Interactive Visualizations**: Bar charts, Pie charts, Line graphs, Donuts, Cards
 
 ## Dashboard Interaction
-- <a href="https://github.com/priti7540/Blinkit-Sale-Performance-Dashboard/blob/main/Blinkit%20Dashboard.png>View Dashboard</a>
+- <a href="https://github.com/priti7540/Blinkit-Sale-Performance-Dashboard/blob/main/Blinkit%20Dashboard.png">View Dashboard</a>
 
 ## Business Impact
 - Identified high-performing products and locations for targeted marketing
